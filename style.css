@@ -2,7 +2,9 @@
   padding-top: 5rem;
   background-color: #e2edff;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 #projects {
   background-color: #e2edff;
 }
